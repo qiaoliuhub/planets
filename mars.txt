@@ -1,4 +1,8 @@
 cold and dry, but everything is my facorite color.
 The two moons may be a problem for wolfman.
 But mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 Hello whats wrong?
+=======
+Hello
+>>>>>>> 53a02983a60837349512b65a4c797f0bcc7322c4
